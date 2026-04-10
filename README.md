@@ -63,7 +63,7 @@ This project demonstrates an end-to-end sentiment analysis workflow using Python
 
 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]("C:\Users\Hp\Pictures\Screenshots\Screenshot 2026-04-10 153352.png)
 
 
  💡 Future Improvements
