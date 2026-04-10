@@ -59,7 +59,7 @@ This project demonstrates an end-to-end sentiment analysis workflow using Python
 - Power BI
 - Data Cleaning & Visualization
 
-![Dashboard](dashboard(2).png.png)
+![Dashboard](dashboard.png)
 
  💡 Future Improvements
 
